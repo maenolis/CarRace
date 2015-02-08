@@ -1,3 +1,14 @@
+//--------------------------------------------------//
+//													//	
+//    Learning OpenGL: Εισαγωγικά Μαθήματα OpenGL   //
+//													//
+//    Πλατφόρμα ανάπτυξης παραδειγμάτων				//
+//													//
+//													//
+//		Μάθημα 5ο									//
+//--------------------------------------------------//
+
+
 #include <stdio.h>     // - Just for some ASCII messages
 #include "gl/glut.h"   // - An interface and windows 
                        //   management library
